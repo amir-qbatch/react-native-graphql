@@ -1,0 +1,3 @@
+[submodule "src/amazonInventory-middleware"]
+	path = src/amazonInventory-middleware
+	url = https://github.com/Qbatch/amazonInventory-middleware.git
